@@ -1,0 +1,25 @@
+{
+  "name": "@glennchen/greet-to-everyone",
+  "version": "1.0.2",
+  "description": "npm package publishing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glenn8119/greetToEveryOne.git"
+  },
+  "author": "GlennChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glenn8119/greetToEveryOne/issues"
+  },
+  "homepage": "https://github.com/Glenn8119/greetToEveryOne#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  }
+}
